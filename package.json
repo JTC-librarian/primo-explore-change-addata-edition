@@ -1,0 +1,20 @@
+{ 
+ 
+ "name": "primo-explore-change-addata-edition", 
+ 
+ "version": "0.0.1", 
+ 
+ "description": "Change the addata/edition field in the PNX to be numeric (e.g. for RDA records). In Primo VE this means the export to Refworks will work correctly.", 
+ 
+ "author": "jtc-librarian", 
+ 
+ "repository": { 
+ 
+   "type": "git", 
+ 
+   "url": "https://github.com/JTC-librarian/primo-explore-change-addata-edition.git" 
+ 
+ } 
+ 
+ 
+} 
